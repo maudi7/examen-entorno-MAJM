@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\csi1\Desktop\examen entorno\.metadata\.plugins\org.eclipse.jdt.core
+2576839410.index
+524495999.index
